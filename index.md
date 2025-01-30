@@ -12,22 +12,34 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Онол, дадлага хосолсон
+
 
 ## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> І шат
+Компьютерын үндэс, Англи хэл (A0/анхан шат): 3 сар
 
-### Header 3
+> ІІ шат
+Өгөгдлийн бүтэц, Python, Англи хэл (A1/анхан шат): 3 сар
+
+> ІІІ шат
+OOP, Java, Англи хэл (A2/анхан дунд): 3 сар
+
+> ІV шат
+Алгоритм (анхан шат), Англи хэл (B1/дунд): 6 сар
+
+> V шат
+Алгоритм (дунд шат), Interview, Resume (CV): 6 сар
+
+
+
+### Үр дүн
 
 ```js
 // Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+Олон улсын төвшинд нийцэх программчлалын ур чадвар, ажлын англи хэл (дунд шат), компьютер ашиглах ахисан төвшний мэдлэг чадвар
+
 ```
 
 ```ruby
