@@ -8,7 +8,7 @@ layout: default
 
 * ІІ шат:  3 сар
   
-[Өгөгдлийн бүтэц]("https://mn.wikipedia.org/wiki/%D3%A8%D0%B3%D3%A9%D0%B3%D0%B4%D0%BB%D0%B8%D0%B9%D0%BD_%D0%B1%D2%AF%D1%82%D1%8D%D1%86), Python, Англи хэл (A1/анхан шат)
+[Өгөгдлийн бүтэц](https://mn.wikipedia.org/wiki/%D3%A8%D0%B3%D3%A9%D0%B3%D0%B4%D0%BB%D0%B8%D0%B9%D0%BD_%D0%B1%D2%AF%D1%82%D1%8D%D1%86), Python, Англи хэл (A1/анхан шат)
 
 * ІІІ шат:  3 сар
   
