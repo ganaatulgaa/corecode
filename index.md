@@ -9,7 +9,7 @@ layout: default
 # Онол, дадлага хосолсон
 * І шат:  3 сар
   
-Компьютерын үндэс, Англи хэл (A0/анхан шат)
+Компьютерын үндэс, Англи хэл ([A0](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)/анхан шат)
 
 * ІІ шат:  3 сар
   
