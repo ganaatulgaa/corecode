@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
 # Онол, дадлага хосолсон
 * І шат
 Компьютерын үндэс, Англи хэл (A0/анхан шат): 3 сар
@@ -17,11 +14,9 @@ OOP, Java, Англи хэл (A2/анхан дунд): 3 сар
 Алгоритм (дунд шат), Interview, Resume (CV): 6 сар
 
 # Үр дүн
-> Олон улсын төвшинд нийцэх программчлалын ур чадвар, ажлын англи хэл (дунд шат), компьютер ашиглах ахисан төвшний мэдлэг чадвар
+> Олон улсын төвшинд нийцэх программчлалын ур чадвар,
+> ажлын англи хэл (дунд шат), компьютер ашиглах ахисан төвшний мэдлэг чадвар
 
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
 
@@ -30,19 +25,9 @@ OOP, Java, Англи хэл (A2/анхан дунд): 3 сар
 
 ### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+Long, single-line code blocks should not wrap. They should horizontally
+scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
 ```
