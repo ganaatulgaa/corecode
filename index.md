@@ -19,16 +19,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 > І шат
 Компьютерын үндэс, Англи хэл (A0/анхан шат): 3 сар
-
 > ІІ шат
 Өгөгдлийн бүтэц, Python, Англи хэл (A1/анхан шат): 3 сар
-
 > ІІІ шат
 OOP, Java, Англи хэл (A2/анхан дунд): 3 сар
-
 > ІV шат
 Алгоритм (анхан шат), Англи хэл (B1/дунд): 6 сар
-
 > V шат
 Алгоритм (дунд шат), Interview, Resume (CV): 6 сар
 
