@@ -26,12 +26,14 @@ layout: default
 [Алгоритм](https://mn.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC){:target="_blank"}  (анхан шат), Англи хэл (B1/дунд)
 
 * V шат:  6 сар
-  
-[Алгоритм](https://mn.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC){:target="_blank"} (дунд шат), [Interview](https://mn.wikipedia.org/wiki/%D0%AF%D1%80%D0%B8%D0%BB%D1%86%D0%BB%D0%B0%D0%B3%D0%B0){:target="_blank"}, [Resume (CV)](https://en.wikipedia.org/wiki/Curriculum_vitae){:target="_blank"}
+
+Алгоритм (дунд шат), [Interview](https://mn.wikipedia.org/wiki/%D0%AF%D1%80%D0%B8%D0%BB%D1%86%D0%BB%D0%B0%D0%B3%D0%B0){:target="_blank"}, [Resume](https://en.wikipedia.org/wiki/R%C3%A9sum%C3%A9) ([CV](https://en.wikipedia.org/wiki/Curriculum_vitae){:target="_blank"})
 
 # Үр дүн
-> Олон улсын төвшинд нийцэх программчлалын ур чадвар,
-> ажлын англи хэл (дунд шат), компьютер ашиглах ахисан төвшний мэдлэг чадвар
+```
+Олон улсын төвшинд нийцэх программчлалын ур чадвар,
+ажлын англи хэл (дунд шат), компьютер ашиглах ахисан төвшний мэдлэг чадвар
+```
 
 # Хэнд зориулагдсан бэ? 
 ```
