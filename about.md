@@ -8,14 +8,14 @@ layout: default
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-``` Software Engineer ```
+`Software Engineer`
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-``` Software Engineer ```
+`Software Engineer`
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-``` Software Engineer ```
+`Software Engineer`
 
 [буцах](./)
