@@ -17,15 +17,9 @@ OOP, Java, Англи хэл (A2/анхан дунд): 3 сар
 > Олон улсын төвшинд нийцэх программчлалын ур чадвар,
 > ажлын англи хэл (дунд шат), компьютер ашиглах ахисан төвшний мэдлэг чадвар
 
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
 ### Definition lists can be used with HTML syntax.
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally
-scroll if they are too long. This line should be long enough to demonstrate this.
+Хэнд зориулагдсан бэ? Зөвхөн кодтой ажиллах программ хангамжийн инженер
+болохыг хүссэн хэн бүхэнд!
 ```
