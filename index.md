@@ -12,6 +12,7 @@ layout: default
 
 
 * ІІІ шат:  3 сар
+
 [OOP, ](https://mn.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82_%D1%85%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB%D1%82%D0%B0%D1%82_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%87%D0%BB%D0%B0%D0%BB){:target="_blank"}
  [JAVA](https://mn.wikipedia.org/wiki/Java){:target="_blank"}, Англи хэл (A2/анхан дунд)
 
