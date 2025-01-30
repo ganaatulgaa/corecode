@@ -10,22 +10,16 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
-
-Онол, дадлага хосолсон
-
-
-## Header 2
-
-> І шат
+# Онол, дадлага хосолсон
+* І шат
 Компьютерын үндэс, Англи хэл (A0/анхан шат): 3 сар
-> ІІ шат
+* ІІ шат
 Өгөгдлийн бүтэц, Python, Англи хэл (A1/анхан шат): 3 сар
-> ІІІ шат
+* ІІІ шат
 OOP, Java, Англи хэл (A2/анхан дунд): 3 сар
-> ІV шат
+* ІV шат
 Алгоритм (анхан шат), Англи хэл (B1/дунд): 6 сар
-> V шат
+* V шат
 Алгоритм (дунд шат), Interview, Resume (CV): 6 сар
 
 
