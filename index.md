@@ -22,15 +22,9 @@ OOP, Java, Англи хэл (A2/анхан дунд): 3 сар
 * V шат
 Алгоритм (дунд шат), Interview, Resume (CV): 6 сар
 
-
-
-### Үр дүн
-
-```js
-// Javascript code with syntax highlighting.
+# Үр дүн
 Олон улсын төвшинд нийцэх программчлалын ур чадвар, ажлын англи хэл (дунд шат), компьютер ашиглах ахисан төвшний мэдлэг чадвар
 
-```
 
 ```ruby
 # Ruby code with syntax highlighting
