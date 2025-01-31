@@ -11,7 +11,7 @@ layout: default
 
 - І шат:  3 сар
   
-  - Компьютерын үндэс, Англи хэл ([A0](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)/анхан шат)
+  Компьютерын үндэс, Англи хэл ([A0](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)/анхан шат)
 
 - ІІ шат:  3 сар
 
