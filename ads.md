@@ -28,8 +28,8 @@ layout: default
 ✔️ Linux, Vim, Git зэрэг мэргэжлийн хэрэгслүүдийг ашиглаж сурна.
 
 Дэлгэрэнгүй мэдээллийг:\
-🌐 https://code.bichig.dev \
-📌 https://www.facebook.com/corecode.surgalt
+🌐 [code.bichig.dev](https://code.bichig.dev) \
+📌 [fb.com/corecode.surgalt](https://www.fb.com/corecode.surgalt)
 
    
 [буцах](./)
