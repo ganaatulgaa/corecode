@@ -7,7 +7,7 @@ layout: default
 
 ## Сургалтын тухай:
 
-| Шат | Хичээл                                                                          | Үргэлжлэх хугацаа | Төлбөр   |
+| Шат | Хичээл                                                                          | Хугацаа | Төлбөр   |
 |-----|---------------------------------------------------------------------------------|-------------------|----------|
 | I   | Компьютерын үндэс, Англи хэл ([A0](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)/анхан шат)            | 3 сар             | 300,000₮ |
 | II  | [Өгөгдлийн бүтэц](https://mn.wikipedia.org/wiki/%D3%A8%D0%B3%D3%A9%D0%B3%D0%B4%D0%BB%D0%B8%D0%B9%D0%BD_%D0%B1%D2%AF%D1%82%D1%8D%D1%86){:target="_blank"}, [Python](https://mn.wikipedia.org/wiki/Python){:target="_blank"}, Англи хэл (A1/анхан шат)          | 3 сар             | 300,000₮ |
