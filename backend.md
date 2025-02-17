@@ -21,6 +21,6 @@ layout: default
 
 6. Performance Optimization: серверт ачаалал бага учруулж, хурдан шуурхай, хөнгөн ажиллах программ бүтээх.
 
-7. DevOps Collaboration: DevOps инженерүүдтэй хамтарч ажиллаж, CI/CD ажиллагааг хангах.
+7. DevOps Collaboration: DevOps инженерүүдтэй хамтран ажиллаж, CI/CD ажиллагааг хангах.
 
 [буцах](./)
