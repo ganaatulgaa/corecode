@@ -31,8 +31,8 @@ layout: default
 Дэлгэрэнгүй мэдээллийг:
 
 🌐 [code.bichig.dev](https://code.bichig.dev) \
-📌 [fb.com/corecode.surgalt](https://fb.com/corecode.surgalt) \
-👉 Бүртгүүлэх: [tinyurl.com/elselt](https://tinyurl.com/elselt) \
+📌 [fb.com/corecode.surgalt](https://fb.me/corecode.surgalt) \
+👉 Бүртгүүлэх: [code.bichig.dev/elselt](https://code.bichig.dev/elselt) \
 📞 Холбоо барих: 99041257, 99164181, 99748867
 
    
