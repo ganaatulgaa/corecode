@@ -15,7 +15,7 @@ layout: default
 
 3. API Development and Integration: backend талаас frontend талд зориулж гаргасан сувгийг бүтээх.
 
-4. System Design and Architecture: олон төрлийн зориулалттай программыг системийг төвшинд нэгтгэн зохион байгуулах.
+4. System Design and Architecture: олон төрлийн зориулалттай программыг системийн төвшинд нэгтгэн зохион байгуулах.
 
 5. Security: Системийн аюулгүй ажиллагааг хангах
 
