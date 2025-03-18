@@ -2,4 +2,7 @@ title: Core Code
 description: Программчлалын сургалт
 show_downloads: true
 google_analytics:
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
 theme: jekyll-theme-hacker
