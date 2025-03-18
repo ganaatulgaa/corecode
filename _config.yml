@@ -1,7 +1,6 @@
 title: Core Code
 description: Программчлалын сургалт
 show_downloads: true
-google_analytics:
 url: "https://code.bichig.dev"
 plugins:
   - jekyll-sitemap
