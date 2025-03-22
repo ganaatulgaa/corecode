@@ -81,7 +81,7 @@ layout: default
 
 🌐 [code.bichig.dev](https://code.bichig.dev) \
 📌 [fb.com/corecode.surgalt](https://fb.com/corecode.surgalt) \
-📞 Холбоо барих: 99041257, 99164181, 99748867
+📞 Холбоо барих: 99748867, 99041257, 99164181
 
 
 [буцах](./)
