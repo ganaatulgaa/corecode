@@ -7,8 +7,9 @@ layout: default
 <div style="float: right;">
   <img src="assets/images/IMG_0115.jpeg" width="250">
 </div>
+</br>
 
-Доржготовын Батмөнх
+**Багш:** Доржготовын Батмөнх
 
 **Мэргэжил:** Программ хангамжийн инженер
 
