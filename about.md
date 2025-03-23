@@ -4,8 +4,8 @@ layout: default
 
 ## Хичээл заах багш нар
 
-<div style="float: right;">
-  <img src="assets/images/IMG_0115.jpeg" width="200">
+<div style="float: right; margin-left: 15px;">
+  <img src="assets/images/IMG_0115.jpeg" width="240">
 </div>
 
 **Багш:** Доржготовын Батмөнх
@@ -20,7 +20,7 @@ layout: default
 
 **Судалгааны сэдэв:** Computational linguistcs
 
-**Нээлттэй эхэд хөгжүүлсэн төсөл:** [Mongolian Language Support in LaTeX](https://ctan.org/pkg/mongolian-babel), [Hunspell Mongolian Dictionary](https://github.com/bataak/dict-mn)
+**Хөгжүүлсэн зарим төсөл:** [Mongolian Language Support in LaTeX](https://ctan.org/pkg/mongolian-babel), [Hunspell Mongolian Dictionary](https://github.com/bataak/dict-mn)
 
 **Заадаг хичээл**: Алгоритмын шинжилгээ ба зохиомж (F.CS301), МХТС ШУТИС
 
