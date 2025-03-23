@@ -4,8 +4,34 @@ layout: default
 
 ## Хичээл заах багш нар
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<style>
+  .profile-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .profile-text {
+    flex: 1;
+    min-width: 250px;
+  }
+  .profile-image {
+    max-width: 100%;
+    margin-left: 20px;
+  }
+  @media (max-width: 600px) {
+    .profile-container {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .profile-image {
+      margin-left: 0;
+      margin-top: 10px;
+    }
+  }
+</style>
+
+<div class="profile-container">
+  <div class="profile-text">
     <p><strong>Багш:</strong> Доржготовын Батмөнх</p>
     <p><strong>Мэргэжил:</strong> Программ хангамжийн инженер</p>
     <p><strong>Эрдмийн зэрэг:</strong> Компьютерын шинжлэх ухааны докторант</p>
@@ -18,8 +44,8 @@ layout: default
     </p>
     <p><strong>Заадаг хичээл:</strong> Алгоритмын шинжилгээ ба зохиомж (F.CS301), МХТС ШУТИС</p>
   </div>
-  <div style="margin-left: 20px;">
-    <img src="assets/images/IMG_0115.jpeg" width="250">
+  <div>
+    <img class="profile-image" src="assets/images/IMG_0115.jpeg" width="250">
   </div>
 </div>
 
