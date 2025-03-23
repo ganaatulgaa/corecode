@@ -4,6 +4,16 @@ layout: default
 
 ## Хичээл заах багш нар
 
+<style>
+  @media (max-width: 600px) {
+    img {
+      float: none !important;
+      display: block;
+      margin: 0 auto;
+    }
+  }
+</style>
+
 <div style="float: right; margin-left: 15px;">
   <img src="assets/images/IMG_0115.jpeg" width="250">
 </div>
