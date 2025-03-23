@@ -4,7 +4,9 @@ layout: default
 
 ## Хичээл заах багш нар
 
-<div class="pull-right"><center><img style="float: left;" src="assets/images/IMG_0115.jpeg" width="200"></center></div>
+<div style="float: right; margin-left: 15px;">
+  <img src="assets/images/IMG_0115.jpeg" width="150">
+</div>
 
 
 **Багш:** Доржготовын Батмөнх
