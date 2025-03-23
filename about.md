@@ -4,6 +4,11 @@ layout: default
 
 ## Хичээл заах багш нар
 
+<div style="float: right; margin-left: 15px;">
+  <img src="assets/images/IMG_0115.jpeg" width="250">
+</div>
+
+
 **Багш:** Доржготовын Батмөнх
 
 **Мэргэжил:** Программ хангамжийн инженер
@@ -20,8 +25,5 @@ layout: default
 
 **Заадаг хичээл**: Алгоритмын шинжилгээ ба зохиомж (F.CS301), МХТС ШУТИС
 
-<div style="float: right; margin-left: 15px;">
-  <img src="assets/images/IMG_0115.jpeg" width="250">
-</div>
 
 [буцах](./)
