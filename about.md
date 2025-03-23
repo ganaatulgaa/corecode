@@ -4,25 +4,19 @@ layout: default
 
 ## Хичээл заах багш нар
 
-### Д. Батмөнх
-	Мэргэжил: Программ хангамжийн инженер
+<div class="pull-left"><center><img style="float: right;" src="assets/images/IMG_0115.jpeg" width="200"></center></div>
 
-	Эрдмийн зэрэг: Компьютерын шинжлэх ухааны докторант
 
-	Мэргэжил дээшлүүлсэн улс: БНСУ, АНУ
+**Багш:** Доржготовын Батмөнх
 
-	Ажлын туршлага: 20 жил
- 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+**Мэргэжил:** Программ хангамжийн инженер
 
-`Software Engineer`
+**Эрдмийн зэрэг:** Компьютерын шинжлэх ухааны докторант
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+**Мэргэжил дээшлүүлсэн улс:** БНСУ, АНУ
 
-`Software Engineer`
+**Ажлын туршлага:** 20 жил
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-`Software Engineer`
 
 [буцах](./)
