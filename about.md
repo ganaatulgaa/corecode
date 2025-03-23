@@ -4,21 +4,24 @@ layout: default
 
 ## Хичээл заах багш нар
 
-|**Багш:** Доржготовын Батмөнх
-
-**Мэргэжил:** Программ хангамжийн инженер
-
-**Эрдмийн зэрэг:** Компьютерын шинжлэх ухааны докторант
-
-**Мэргэжил дээшлүүлсэн улс:** БНСУ, АНУ
-
-**Ажлын туршлага:** 20 жил
-
-**Судалгааны сэдэв:** Computational linguistcs
-
-**Хөгжүүлсэн зарим төсөл:** [Mongolian Language Support in LaTeX](https://ctan.org/pkg/mongolian-babel), [Hunspell Mongolian Dictionary](https://github.com/bataak/dict-mn)
-
-**Заадаг хичээл**: Алгоритмын шинжилгээ ба зохиомж (F.CS301), МХТС ШУТИС| <img src="assets/images/IMG_0115.jpeg" width="250"> |
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p><strong>Багш:</strong> Доржготовын Батмөнх</p>
+    <p><strong>Мэргэжил:</strong> Программ хангамжийн инженер</p>
+    <p><strong>Эрдмийн зэрэг:</strong> Компьютерын шинжлэх ухааны докторант</p>
+    <p><strong>Мэргэжил дээшлүүлсэн улс:</strong> БНСУ, АНУ</p>
+    <p><strong>Ажлын туршлага:</strong> 20 жил</p>
+    <p><strong>Судалгааны сэдэв:</strong> Computational linguistics</p>
+    <p><strong>Хөгжүүлсэн зарим төсөл:</strong> 
+      <a href="https://ctan.org/pkg/mongolian-babel">Mongolian Language Support in LaTeX</a>, 
+      <a href="https://github.com/bataak/dict-mn">Hunspell Mongolian Dictionary</a>
+    </p>
+    <p><strong>Заадаг хичээл:</strong> Алгоритмын шинжилгээ ба зохиомж (F.CS301), МХТС ШУТИС</p>
+  </div>
+  <div style="margin-left: 20px;">
+    <img src="assets/images/IMG_0115.jpeg" width="250">
+  </div>
+</div>
 
 
 [буцах](./)
