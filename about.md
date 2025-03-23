@@ -4,22 +4,7 @@ layout: default
 
 ## Хичээл заах багш нар
 
-<style>
-  @media (max-width: 600px) {
-    img {
-      float: none !important;
-      display: block;
-      margin: 0 auto;
-    }
-  }
-</style>
-
-<div style="float: right; margin-left: 15px;">
-  <img src="assets/images/IMG_0115.jpeg" width="250">
-</div>
-
-
-**Багш:** Доржготовын Батмөнх
+|**Багш:** Доржготовын Батмөнх
 
 **Мэргэжил:** Программ хангамжийн инженер
 
@@ -33,7 +18,7 @@ layout: default
 
 **Хөгжүүлсэн зарим төсөл:** [Mongolian Language Support in LaTeX](https://ctan.org/pkg/mongolian-babel), [Hunspell Mongolian Dictionary](https://github.com/bataak/dict-mn)
 
-**Заадаг хичээл**: Алгоритмын шинжилгээ ба зохиомж (F.CS301), МХТС ШУТИС
+**Заадаг хичээл**: Алгоритмын шинжилгээ ба зохиомж (F.CS301), МХТС ШУТИС| <img src="assets/images/IMG_0115.jpeg" width="250"> |
 
 
 [буцах](./)
