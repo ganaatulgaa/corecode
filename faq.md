@@ -76,6 +76,7 @@ layout: default
    1. API хөгжүүлэлт: REST API, GraphQL
    1. Ядаж 1 Framework: Python (FastAPI, Flask), Java (Spring/Spring Boot), Node.js (Express.js), Go (Fiber, Gin), Rust (Actix Web, Axum)
    1. Linux command line, Docker, Git, Unit Test
+   1. Англи хэл
    
 1. <a id="240"></a>**240 минут буюу 4 цагаар хэрхэн хичээллэх вэ?**
 
