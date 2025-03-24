@@ -74,7 +74,7 @@ layout: default
    1. Программчлалын ядаж 1 хэл: Python, Java, Node.js, Go, Rust
    1. Өгөгдлийн сан: SQL (MariaDB, PostgreSQL), NoSQL (MongoDB, Redis, Cassandra)
    1. API хөгжүүлэлт: REST API, GraphQL
-   1. Ядаж 1 Framework: Python (FastAPI, Flask), Java (Spring/Spring Boot), Node.js (Express.js), Go (Fiber, Gin), Rust (Actix Web, Axum)
+   1. Framework: Python (FastAPI, Flask), Java (Spring/Spring Boot), Node.js (Express.js), Go (Fiber, Gin), Rust (Actix Web, Axum)
    1. Linux command line
    1. Сервер архитектур: Docker, Microservices
    1. Version control system: Git
