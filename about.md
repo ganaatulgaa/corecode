@@ -54,7 +54,7 @@ layout: default
     <p><strong>Багш:</strong> Ганхүүгийн Гантулга</p>
     <p><strong>Мэргэжил:</strong> Программ хангамжийн инженер</p>
     <p><strong>Эрдмийн зэрэг:</strong> Компьютерын шинжлэх ухааны бакалавр</p>
-    <p><strong>Мэргэжил дээшлүүлсэн, ажиллаж байсан улс:</strong> Япон</p>
+    <p><strong>Мэргэжил дээшлүүлж, ажилласан улс:</strong> Япон</p>
     <p><strong>Ажлын туршлага:</strong> 20 жил</p>
     <p><strong>Хөгжүүлсэн зарим төсөл:</strong> 
       Fintech, HealthTech, GIS, ERP
