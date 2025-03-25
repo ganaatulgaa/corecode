@@ -61,7 +61,7 @@ layout: default
     </p>
   </div>
   <div>
-    <img class="profile-image" src="assets/images/IMG_0116.jpeg" width="250">
+    <img class="profile-image" src="assets/images/gt.jpg" width="250">
   </div>
 </div>
 
