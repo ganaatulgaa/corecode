@@ -48,6 +48,22 @@ layout: default
     <img class="profile-image" src="assets/images/IMG_0115.jpeg" width="250">
   </div>
 </div>
+<br/>
+<div class="profile-container">
+  <div class="profile-text">
+    <p><strong>Багш:</strong> Ганхүүгийн Гантулга</p>
+    <p><strong>Мэргэжил:</strong> Программ хангамжийн инженер</p>
+    <p><strong>Эрдмийн зэрэг:</strong> Компьютерын шинжлэх ухааны баклавр</p>
+    <p><strong>Мэргэжил дээшлүүлсэн, ажиллаж байсан улс:</strong> Япон</p>
+    <p><strong>Ажлын туршлага:</strong> 20 жил</p>
+    <p><strong>Хөгжүүлсэн зарим төсөл:</strong> 
+      Fintech, HealthTech, GIS, ERP
+    </p>
+  </div>
+  <div>
+    <img class="profile-image" src="assets/images/IMG_0116.jpeg" width="250">
+  </div>
+</div>
 
 
 [буцах](./)
