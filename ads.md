@@ -6,6 +6,7 @@ layout: default
 
 [ikon.mn](https://ikon.mn/n/3dms)\
 [Ikon News's FB Post](https://www.facebook.com/iKonNews/posts/pfbid02AbrYdg4jsPvzXvrCZaJTNpdDZWb48KAGZ3xCnwm763axBC44RxENCjFpVdnHzh4hl)
+[iKonNews's X Post](https://x.com/ikonnews/status/1908088093954986067)
 
 
 ## Хүүхдийнхээ ирээдүйн мэргэжлийг хэдэн наснаас нь төлөвлөх хэрэгтэй вэ?
