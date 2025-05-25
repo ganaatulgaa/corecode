@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-<style>
-  .text {
-    line-height: 1.5;
-  }
-</style>
   
 ## Асуулт ба хариулт
 
