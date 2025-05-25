@@ -1,0 +1,28 @@
+picture_path: 2025-1
+preview:
+  filename: ads-1
+  original: ads-1.png
+  sizes:
+  - ads-1.png
+  thumbnail: ads-1.png
+pictures:
+- filename: ads-1
+  original: ads-1.png
+  sizes:
+  - ads-1.png
+  thumbnail: ads-1.png
+- filename: ads-1
+  original: ads-1.png
+  sizes:
+  - ads-1.png
+  thumbnail: ads-1.png
+- filename: ads-1
+  original: ads-1.png
+  sizes:
+  - ads-1.png
+  thumbnail: ads-1.png
+- filename: ads-1
+  original: ads-1.png
+  sizes:
+  - ads-1.png
+  thumbnail: ads-1.png
