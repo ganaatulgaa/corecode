@@ -1,8 +1,6 @@
 ---
 ---
 
-$default-width: 50%;
-
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -16,7 +14,7 @@ html {
 
 .image-wrapper,
 .gallery-sizer {
-  width: $default-width;
+  width: 50%;
 }
 
 .image-gallery {
