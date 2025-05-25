@@ -2,8 +2,10 @@
  title: A Very Basic Example Gallery
  directory: 2025-1
  preview:
-  filename: IMG_0115
-  original: IMG_0115.jpeg
+  filename: VS-2012-6088
+  original: VS-2012-6088-6000x4000.jpg
   sizes:
-  - IMG_0115.jpeg
-  thumbnail: IMG_0115.jpeg
+  - VS-2012-6088-4242x2828.jpg
+  - VS-2012-6088-2121x1414.jpg
+  - VS-2012-6088-2999x1999.jpg
+  thumbnail: VS-2012-6088-thumbnail.jpg
