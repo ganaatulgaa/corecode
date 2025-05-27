@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
-    <title>Код бичигдэв</title>
+    <title>{{ page.title | default: site.github.repository_name }}</title>
 {% seo %}
   </head>
 
@@ -15,7 +15,7 @@
     <header>
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ page.title | default: site.github.repository_name }}</h1>
+          <h1>Код бичигдэв</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
