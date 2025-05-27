@@ -14,6 +14,7 @@ permalink: /angi/
       <img alt="{{ gallery.title }}" src="{{ site.url }}{{ site.baseurl }}/assets/photos/{% if gallery.picture_path %}{{ gallery.picture_path }}{% else %}{{ gallery.directory }}{% endif %}/{{ gallery.preview.thumbnail }}" />
     </a>
   </div>
+<p><a href="./">буцах</a></p>
 {% if count == 1 %}</div>{% endif %}
 {% assign count = count | plus: 1 %}
 {% assign align = "right" %}
@@ -22,8 +23,6 @@ permalink: /angi/
 {% assign count = 0 %}
 {% endif %}
 {% endfor %}
-
-<p><a href="./">буцах</a></p>
 
 {% if count != 1 %}
 </div>
