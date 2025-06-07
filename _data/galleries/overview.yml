@@ -2,22 +2,20 @@
  title: 2025 оны I улирал
  directory: 2025-1
  preview:
-  filename: VS-2012-6088
-  original: VS-2012-6088-6000x4000.jpg
+  filename: IMG_1375
+  original: IMG_1375.JPG
   sizes:
-  - VS-2012-6088-4242x2828.jpg
-  - VS-2012-6088-2121x1414.jpg
-  - VS-2012-6088-2999x1999.jpg
-  thumbnail: VS-2012-6088-thumbnail.jpg
--
- title: 2025 оны II улирал
- directory: 2025-2
- picture_path: 2025-2
- preview:
-  filename: VS-2012-6088
-  original: VS-2012-6088-6000x4000.jpg
-  sizes:
-  - VS-2012-6088-4242x2828.jpg
-  - VS-2012-6088-2121x1414.jpg
-  - VS-2012-6088-2999x1999.jpg
-  thumbnail: VS-2012-6088-thumbnail.jpg
+  - IMG_1375.JPG
+  thumbnail: IMG_1375.JPG
+#-
+# title: 2025 оны II улирал
+# directory: 2025-2
+# picture_path: 2025-2
+# preview:
+#  filename: VS-2012-6088
+#  original: VS-2012-6088-6000x4000.jpg
+#  sizes:
+#  - VS-2012-6088-4242x2828.jpg
+#  - VS-2012-6088-2121x1414.jpg
+#  - VS-2012-6088-2999x1999.jpg
+#  thumbnail: VS-2012-6088-thumbnail.jpg
