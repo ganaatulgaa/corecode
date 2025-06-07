@@ -3,10 +3,13 @@
  directory: 2025-1
  preview:
   filename: IMG_1375
-  original: IMG_1375.JPG
+  original: IMG_1375-5184x3456.JPG
   sizes:
-  - IMG_1375.JPG
-  thumbnail: IMG_1375.JPG
+  - IMG_1375-3629x2419.JPG
+  - IMG_1375-2592x1728.JPG
+  - IMG_1375-1555x1037.JPG
+
+  thumbnail: IMG_1375-thumbnail.JPG
 -
 # title: 2025 оны II улирал
 # directory: 2025-2
