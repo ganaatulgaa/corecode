@@ -6,7 +6,7 @@ preview:
   - IMG_1375-3629x2419.JPG
   - IMG_1375-2592x1728.JPG
   - IMG_1375-1555x1037.JPG
-  thumbnail: IMG_1375-thumbnail.JPG
+  thumbnail: IMG_1375-1555x1037.JPG
 pictures:
 - filename: IMG_1378
   original: IMG_1378-5184x3456.JPG
@@ -14,18 +14,18 @@ pictures:
   - IMG_1378-3629x2419.JPG
   - IMG_1378-2592x1728.JPG
   - IMG_1378-1555x1037.JPG
-  thumbnail: IMG_1378-thumbnail.JPG
+  thumbnail: IMG_1378-1555x1037.JPG
 - filename: IMG_1486
   original: IMG_1486-5184x3456.JPG
   sizes:
   - IMG_1486-3629x2419.JPG
   - IMG_1486-2592x1728.JPG
   - IMG_1486-1555x1037.JPG
-  thumbnail: IMG_1486-thumbnail.JPG
+  thumbnail: IMG_1486-1555x1037.JPG
 - filename: IMG_1375
   original: IMG_1375-5184x3456.JPG
   sizes:
   - IMG_1375-3629x2419.JPG
   - IMG_1375-2592x1728.JPG
   - IMG_1375-1555x1037.JPG
-  thumbnail: IMG_1375-thumbnail.JPG
+  thumbnail: IMG_1375-1555x1037.JPG
