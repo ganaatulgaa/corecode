@@ -1,28 +1,23 @@
 picture_path: 2025-1
 preview:
-  filename: IMG_0115
-  original: IMG_0115.jpeg
+  filename: IMG_1375
+  original: IMG_1375.JPG
   sizes:
-  - IMG_0115.jpeg
-  thumbnail: IMG_0115.jpeg
+  - IMG_1375.JPG
+  thumbnail: IMG_1375.JPG
 pictures:
-- filename: IMG_0115
-  original: IMG_0115.jpeg
+- filename: IMG_1378
+  original: IMG_1378.JPG
   sizes:
-  - IMG_0115.jpeg
-  thumbnail: IMG_0115.jpeg
-- filename: IMG_0115
-  original: IMG_0115.jpeg
+  - IMG_1378.JPG
+  thumbnail: IMG_1378.JPG
+- filename: IMG_1486
+  original: IMG_1486.JPG
   sizes:
-  - IMG_0115.jpeg
-  thumbnail: IMG_0115.jpeg
-- filename: IMG_0115
-  original: IMG_0115.jpeg
+  - IMG_1486.JPG
+  thumbnail: IMG_1486.JPG
+- filename: IMG_1375
+  original: IMG_1375.JPG
   sizes:
-  - IMG_0115.jpeg
-  thumbnail: IMG_0115.jpeg
-- filename: IMG_0115
-  original: IMG_0115.jpeg
-  sizes:
-  - IMG_0115.jpeg
-  thumbnail: IMG_0115.jpeg
+  - IMG_1375.JPG
+  thumbnail: IMG_1375.JPG
