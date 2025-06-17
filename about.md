@@ -45,7 +45,7 @@ layout: default
     <p><strong>Заадаг хичээл:</strong> Алгоритмын шинжилгээ ба зохиомж (F.CS301), МХТС ШУТИС</p>
   </div>
   <div>
-    <img class="profile-image" src="assets/images/IMG_0115.jpeg" width="250">
+    <img class="profile-image" src="assets/images/IMG_0115-390x461.jpeg" width="250">
   </div>
 </div>
 <br/>
@@ -61,7 +61,7 @@ layout: default
     </p>
   </div>
   <div>
-    <img class="profile-image" src="assets/images/gt.jpeg" width="250">
+    <img class="profile-image" src="assets/images/gt-390x461.jpeg" width="250">
   </div>
 </div>
 
