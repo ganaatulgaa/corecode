@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Танилцуулга
+date: 2025-06-18
+tags: [код бичиж сурах, код бичих сургалт, кодчиллын сургалт, компьютерын сургалт, computeriin surgalt, computer surgalt, code bichij surah, kod bichij surah, kod bichih surgalt, komputer surgalt]
 ---
 
 Дунд, ахлах сургуулийн сурагчид болон оюутнуудад зориулсан, онол, дадлага хосолсон, кодчиллын чадвар олгох сургалт
