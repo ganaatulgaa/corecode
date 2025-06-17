@@ -1,20 +1,30 @@
 ---
 layout: default
-title: Tags
+title: Бүх шошго
 permalink: /tags/
 ---
 
-<h1>Tags</h1>
+<div style="text-align: center;">
+  <h1>🏷 Бүх Tags</h1>
+  <p style="font-size: 1.2em;">Доорх нь нийтлэлүүдийн hashtag буюу tags-ийн жагсаалт болно.</p>
+</div>
 
-<ul>
-  {% for tag in site.tags %}
-    <li>
-      <h3>{{ tag[0] }}</h3>
-      <ul>
-        {% for post in tag[1] %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </li>
-  {% endfor %}
-</ul>
+<hr />
+
+{% if site.tags %}
+  {% assign sorted_tags = site.tags | sort %}
+  <ul>
+    {% for tag in sorted_tags %}
+      <li>
+        <h2 id="{{ tag[0] | slugify }}">🔖 {{ tag[0] }}</h2>
+        <ul>
+          {% for post in tag[1] %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a> <small>({{ post.date | date: "%Y-%m-%d" }})</small></li>
+          {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>Одоогоор ямар ч tag-тэй нийтлэл алга байна.</p>
+{% endif %}
