@@ -3,7 +3,6 @@ layout: post
 title: "Tag Loader"
 date: 2025-06-16
 tags: [код бичиж сурах, код бичих сургалт, кодчиллын сургалт, компьютерын сургалт, computeriin surgalt, computer surgalt, code bichij surah, kod bichij surah, kod bichih surgalt, komputer surgalt]
-published: false
 ---
 
 Энэ бол зөвхөн tags буюу шошго цуглуулах зориулалттай файл болно.
