@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tag Loader"
-date: 2025-06-16
+date: 2025-06-22
 tags: [код бичиж сурах, код бичих сургалт, кодчиллын сургалт, компьютерын сургалт, код бичих сургалт, кодын сургалт, computeriin surgalt, computer surgalt, code bichij surah, kod bichij surah, kod bichih surgalt, komputer surgalt]
 ---
 
