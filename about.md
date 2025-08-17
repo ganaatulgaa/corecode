@@ -42,7 +42,7 @@ layout: default
       <a href="https://ctan.org/pkg/mongolian-babel">Mongolian Language Support in LaTeX</a>, 
       <a href="https://github.com/bataak/dict-mn">Hunspell Mongolian Dictionary</a>
     </p>
-    <p><strong>Заадаг хичээл:</strong> Алгоритмын шинжилгээ ба зохиомж (F.CS301), МХТС ШУТИС</p>
+    <p><strong>Заадаг хичээл:</strong> Алгоритмын шинжилгээ ба зохиомж (F.CS301), Программ хангамжийн инженерчлэлийн тусгай сэдвүүд (F.CSA303), МХТС ШУТИС</p>
   </div>
   <div>
     <img class="profile-image" src="assets/images/IMG_0115-390x461.jpeg" width="250">
