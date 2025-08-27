@@ -1,37 +1,24 @@
 picture_path: 2025-3
 preview:
-  filename: VS-2012-6088
-  original: VS-2012-6088-6000x4000.jpg
+  filename: IMG_4020
+  original: IMG_4020-1280x960.JPG
   sizes:
-  - VS-2012-6088-4242x2828.jpg
-  - VS-2012-6088-2121x1414.jpg
-  - VS-2012-6088-2999x1999.jpg
-  thumbnail: VS-2012-6088-thumbnail.jpg
+  - IMG_4020-384x288.JPG
+  - IMG_4020-640x480.JPG
+  - IMG_4020-896x672.JPG
+  thumbnail: IMG_4020-384x288.JPG
 pictures:
-- filename: VS-2012-6088
-  original: VS-2012-6088-6000x4000.jpg
+- filename: IMG_4021
+  original: IMG_4021-1280x960.JPG
   sizes:
-  - VS-2012-6088-4242x2828.jpg
-  - VS-2012-6088-2121x1414.jpg
-  - VS-2012-6088-2999x1999.jpg
-  thumbnail: VS-2012-6088-thumbnail.jpg
-- filename: IMG_0115
-  original: IMG_0115.jpeg
+  - IMG_4021-384x288.JPG
+  - IMG_4021-640x480.JPG
+  - IMG_4021-896x672.JPG
+  thumbnail: IMG_4021-384x288.JPG
+- filename: IMG_4022
+  original: IMG_4022-1280x960.JPG
   sizes:
-  - IMG_0115.jpeg
-  thumbnail: IMG_0115.jpeg
-- filename: IMG_0115
-  original: IMG_0115.jpeg
-  sizes:
-  - IMG_0115.jpeg
-  thumbnail: IMG_0115.jpeg
-- filename: IMG_0115
-  original: IMG_0115.jpeg
-  sizes:
-  - IMG_0115.jpeg
-  thumbnail: IMG_0115.jpeg
-- filename: IMG_0115
-  original: IMG_0115.jpeg
-  sizes:
-  - IMG_0115.jpeg
-  thumbnail: IMG_0115.jpeg
+  - IMG_4022-384x288.JPG
+  - IMG_4022-640x480.JPG
+  - IMG_4022-896x672.JPG
+  thumbnail: IMG_4022-384x288.JPG
