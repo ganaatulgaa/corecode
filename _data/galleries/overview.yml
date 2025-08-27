@@ -11,6 +11,16 @@
   thumbnail: IMG_1375-1555x1037.JPG
 # resize: 30%, 50%, 70%
 -
+ title: 2025 оны III улирал
+ directory: 2025-3
+ preview:
+  filename: IMG_4020
+  original: IMG_4020-1280x960.JPG
+  sizes:
+  - IMG_4020-896x672.JPG
+  - IMG_4020-640x480.JPG
+  - IMG_4020-384x288.JPG
+  thumbnail: IMG_4020-384x288.JPG
 # title: 2025 оны III улирал
 # directory: 2025-3
 # picture_path: 2025-3
