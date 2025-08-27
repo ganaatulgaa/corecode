@@ -15,12 +15,12 @@
  directory: 2025-3
  preview:
   filename: IMG_4020
-  original: IMG_4020-1280x960.JPG
+  original: IMG_4020-1280x960.jpeg
   sizes:
-  - IMG_4020-896x672.JPG
-  - IMG_4020-640x480.JPG
-  - IMG_4020-384x288.JPG
-  thumbnail: IMG_4020-384x288.JPG
+  - IMG_4020-896x672.jpeg
+  - IMG_4020-640x480.jpeg
+  - IMG_4020-384x288.jpeg
+  thumbnail: IMG_4020-384x288.jpeg
 -
 # title: 2025 оны III улирал
 # directory: 2025-3
