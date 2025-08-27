@@ -22,3 +22,10 @@ pictures:
   - IMG_4022-640x480.JPG
   - IMG_4022-896x672.JPG
   thumbnail: IMG_4022-384x288.JPG
+- filename: IMG_4020
+  original: IMG_4020-1280x960.JPG
+  sizes:
+  - IMG_4020-384x288.JPG
+  - IMG_4020-640x480.JPG
+  - IMG_4020-896x672.JPG
+  thumbnail: IMG_4020-384x288.JPG
