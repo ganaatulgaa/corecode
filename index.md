@@ -3,7 +3,17 @@ layout: default
 title: Танилцуулга
 date: 2025-06-18
 ---
-
+<style>
+.table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.table-wrapper table {
+  min-width: 600px;
+  border-collapse: collapse;
+}
+</style>
 Дунд, ахлах сургуулийн сурагчид болон оюутнуудад зориулсан, онол, дадлага хосолсон, кодчиллын чадвар олгох сургалт
 
 ## Манай сургалтыг сонгох шалтгаан
