@@ -3,4 +3,5 @@ Disallow: /test/
 Disallow: /src/
 Disallow: /onoo/
 Disallow: /elselt.html
+Disallow: /elselt
 Allow: /
