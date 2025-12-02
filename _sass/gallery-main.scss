@@ -93,3 +93,25 @@ $on-laptop:        800px;
         clear: both;
     }
 }
+
+.half-width {
+  width: 48%;
+  float: left;
+  margin-bottom: 32px;
+}
+
+@media screen and (min-width: $on-palm) {
+  .left {
+    margin-right: 2%;
+  }
+  .right {
+    margin-left: 2%;
+  }
+}
+
+@media screen and (max-width: $on-palm) {
+  .half-width {
+    width: 100%;
+    margin: 0 0 20px 0;
+  }
+}
