@@ -1,18 +1,31 @@
 <div id="image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}" class="image-gallery">
-  <div id="gallery-sizer{% if include.id_number %}-{{ include.id_number }}{% endif %}" class="gallery-sizer"></div>
+  <div class="gallery-sizer"></div>
+
   {% for picture in include.gallery.pictures %}
-  <div class="image-wrapper">
+  <div class="image-wrapper
+    {% if forloop.index0 | modulo: 2 == 0 %}
+      left
+    {% else %}
+      {% unless forloop.last %}
+        right
+      {% else %}
+        left
+      {% endunless %}
+    {% endif %}">
+
     <a href="{{ site.url }}{{ site.baseurl }}/assets/photos/{{ include.gallery.picture_path }}/{{ picture.original }}"
-    data-responsive="{% for size in picture.sizes %} {{ site.url}}{{ site.baseurl }}/assets/photos/{{ include.gallery.picture_path }}/{{ size }} {{ size | split: '-' | last | split: '.' | first | split: 'x' | first | strip }}{% unless forloop.last %},{% endunless %}{% endfor %}" class="image"
-    {% if picture.title %} data-sub-html="<div class='lg-toolbar caption'><h4>{{ picture.title | escape }}</h4>{% if picture.caption %}<p>{{ picture.caption | escape }}</p>{% endif %}</div>"{% endif %}>
+      data-responsive="{% for size in picture.sizes %} {{ site.url}}{{ site.baseurl }}/assets/photos/{{ include.gallery.picture_path }}/{{ size }} {{ size | split: '-' | last | split: '.' | first | split: 'x' | first | strip }}{% unless forloop.last %},{% endunless %}{% endfor %}"
+      class="image"
+      {% if picture.title %}data-sub-html="<div class='lg-toolbar caption'><h4>{{ picture.title | escape }}</h4>{% if picture.caption %}<p>{{ picture.caption | escape }}</p>{% endif %}</div>"{% endif %}>
       <img alt="{{ picture.title }}" src="{{ site.url }}{{ site.baseurl }}/assets/photos/{{ include.gallery.picture_path }}/{{ picture.thumbnail }}" />
     </a>
+
   </div>
   {% endfor %}
 </div>
 
 <script>
-$(document).ready(function() {
+$(document).ready(function () {
   var $gallery{% if include.id_number %}{{ include.id_number }}{% endif %} =
     $("#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}").lightGallery({
       thumbnail: false,
@@ -20,16 +33,18 @@ $(document).ready(function() {
     });
 });
 
-// init isotope
+// -- Isotope init --
 var $grid{% if include.id_number %}{{ include.id_number }}{% endif %} =
 $('#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}').isotope({
   percentPosition: true,
   itemSelector: '.image-wrapper',
-  masonry: { columnWidth: '.image-wrapper' }
+  masonry: {
+    columnWidth: '.image-wrapper'  // ← гол засвар
+  }
 });
 
-// layout Isotope after each image loads
-$grid{% if include.id_number %}{{ include.id_number }}{% endif %}.imagesLoaded().progress(function() {
-  $grid{% if include.id_number %}{{ include.id_number }}{% endif %}.isotope('layout');
+// -- Layout refresh on images load --
+$grid{% if include.id_number %}{{ include.id_number }}{% endif %}.imagesLoaded().progress(function () {
+  $grid{% if include.id_number %}{{ include.id_number }}{% endif %}.isotope('layout'); // ← зөв layout дуудалт
 });
 </script>
