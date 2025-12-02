@@ -1,16 +1,11 @@
-* {
-  box-sizing: border-box;
-}
+* { box-sizing: border-box; }
 
-/* force scrollbar, prevents initial gap */
-html {
-  overflow-y: scroll;
-}
+html { overflow-y: scroll; }
 
-/* 3 images per row */
+/* 2 images per row layout */
 .image-wrapper,
 .gallery-sizer {
-  width: 33.3%;
+  width: 50%;
 }
 
 .image-gallery {
@@ -22,13 +17,14 @@ html {
   padding: 3px;
 }
 
-.image-wrapper .image {
-  width: calc(100% + 1px);
-  height: 100%;
+.image-wrapper img {
+  display: block;
+  width: 100%;
 }
 
 /* clearfix */
-.image-gallery::after {
+.image-gallery::after,
+.row::after {
   content: '';
   display: block;
   clear: both;
@@ -37,24 +33,4 @@ html {
 .caption {
   position: static;
   color: #AAA;
-}
-
-.image-wrapper,
-.gallery-sizer {
-  width: 50%;  /* 2 багана */
-}
-
-.image-wrapper img {
-  display: block; /* whitespace алга болгоно */
-  width: 100%;
-}
-
-.half-width {
-  width: 50%;
-  float: left;
-}
-.row::after {
-  content: '';
-  display: block;
-  clear: both;
 }
