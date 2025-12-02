@@ -29,3 +29,14 @@ html { overflow-y: scroll; }
   position: static;
   color: #AAA;
 }
+
+.half-width {
+  float: left;
+  width: 48%;
+  margin-right: 2%;
+  margin-bottom: 20px;
+}
+
+.half-width.right {
+  margin-right: 0;
+}
