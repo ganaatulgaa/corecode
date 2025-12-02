@@ -40,3 +40,15 @@ html { overflow-y: scroll; }
 .half-width.right {
   margin-right: 0;
 }
+
+@media (max-width: 600px) {
+  .row .half-width {
+    width: 100%;           /* Багана → 1 */
+    margin: 0 0 20px 0;    /* Доод зай жаахан үлдээ */
+  }
+  .row .left,
+  .row .right {
+    margin-right: 0;
+    margin-left: 0;        /* Үлдэгдэл margin бүрэн арилгана */
+  }
+}
