@@ -4,6 +4,8 @@ title: Ангиуд
 permalink: /angi/
 ---
 
+{% assign total = site.data.galleries.overview | size %}
+
 {% for gallery in site.data.galleries.overview %}
   {% assign i = forloop.index0 %}
 
@@ -25,5 +27,4 @@ permalink: /angi/
 
 {% endfor %}
 
-<br>
-<p><a href="https://code.bichig.dev/">буцах</a></p>
+<br><p><a href="https://code.bichig.dev/">буцах</a></p>
