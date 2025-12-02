@@ -4,25 +4,32 @@ title: Ангиуд
 permalink: /angi/
 ---
 
+{% assign count = 0 %}
 {% for gallery in site.data.galleries.overview %}
-  {% assign i = forloop.index0 %}
-
-  {%- if i | modulo: 2 == 0 -%}
+  {% if count == 0 %}
   <div class="row">
-  {%- endif -%}
-
-    <div class="half-width gallery-preview {% if i | modulo: 2 == 0 %}left{% else %}right{% endif %}">
-      <h2>{{ gallery.title }}</h2>
-      <a href="{{ site.url }}{{ site.baseurl }}/angi/{{ gallery.directory }}">
-        <img alt="{{ gallery.title }}"
-             src="{{ site.url }}{{ site.baseurl }}/assets/photos/{% if gallery.picture_path %}{{ gallery.picture_path }}{% else %}{{ gallery.directory }}{% endif %}/{{ gallery.preview.thumbnail }}" />
-      </a>
-    </div>
-
-  {%- if i | modulo: 2 == 1 or forloop.last -%}
+  {% endif %}
+  
+  <div class="half-width gallery-preview">
+    <h2>{{ gallery.title }}</h2>
+    <a href="{{ site.url }}{{ site.baseurl }}/angi/{{ gallery.directory }}">
+      <img alt="{{ gallery.title }}" 
+           src="{{ site.url }}{{ site.baseurl }}/assets/photos/{% if gallery.picture_path %}{{ gallery.picture_path }}{% else %}{{ gallery.directory }}{% endif %}/{{ gallery.preview.thumbnail }}" />
+    </a>
   </div>
-  {%- endif -%}
+  
+  {% assign count = count | plus: 1 %}
+  
+  {% if count == 2 %}
+  </div>
+  {% assign count = 0 %}
+  {% endif %}
 {% endfor %}
+
+{% comment %}Close the last row if it has only 1 item{% endcomment %}
+{% if count == 1 %}
+</div>
+{% endif %}
 
 <br>
 <p><a href="https://code.bichig.dev/">буцах</a></p>
