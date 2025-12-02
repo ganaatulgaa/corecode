@@ -38,3 +38,13 @@ html {
   position: static;
   color: #AAA;
 }
+
+.image-wrapper,
+.gallery-sizer {
+  width: 50%;  /* 2 багана */
+}
+
+.image-wrapper img {
+  display: block; /* whitespace алга болгоно */
+  width: 100%;
+}
