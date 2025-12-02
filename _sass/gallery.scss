@@ -48,3 +48,13 @@ html {
   display: block; /* whitespace алга болгоно */
   width: 100%;
 }
+
+.half-width {
+  width: 50%;
+  float: left;
+}
+.row::after {
+  content: '';
+  display: block;
+  clear: both;
+}
