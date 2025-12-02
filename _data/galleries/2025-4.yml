@@ -1,0 +1,31 @@
+picture_path: 2025-4
+preview:
+  filename: IMG_4120
+  original: IMG_4120-1280x960.jpeg
+  sizes:
+  - IMG_4120-384x288.jpeg
+  - IMG_4120-640x480.jpeg
+  - IMG_4120-896x672.jpeg
+  thumbnail: IMG_4120-384x288.jpeg
+pictures:
+- filename: IMG_4119
+  original: IMG_4119-1280x960.jpeg
+  sizes:
+  - IMG_4119-384x288.jpeg
+  - IMG_4119-640x480.jpeg
+  - IMG_4119-896x672.jpeg
+  thumbnail: IMG_4119-384x288.jpeg
+- filename: IMG_4121
+  original: IMG_4121-1280x960.jpeg
+  sizes:
+  - IMG_4121-384x288.jpeg
+  - IMG_4121-640x480.jpeg
+  - IMG_4121-896x672.jpeg
+  thumbnail: IMG_4121-384x288.jpeg
+- filename: IMG_4120
+  original: IMG_4120-1280x960.jpeg
+  sizes:
+  - IMG_4120-384x288.jpeg
+  - IMG_4120-640x480.jpeg
+  - IMG_4120-896x672.jpeg
+  thumbnail: IMG_4120-384x288.jpeg
