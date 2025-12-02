@@ -3,7 +3,21 @@ layout: default
 title: Ангиуд
 permalink: /angi/
 ---
+<style>
+  .half-width.gallery-preview {
+    width: 48%;
+    float: left;
+    box-sizing: border-box;
+    margin-bottom: 32px;
+  }
 
+  @media (max-width: 600px) {
+    .half-width.gallery-preview {
+      width: 100%;
+      float: none;
+    }
+  }
+</style>
 {% assign total = site.data.galleries.overview | size %}
 
 {% for gallery in site.data.galleries.overview %}
