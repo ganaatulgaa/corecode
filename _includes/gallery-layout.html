@@ -23,28 +23,3 @@
   </div>
   {% endfor %}
 </div>
-
-<script>
-$(document).ready(function () {
-  var $gallery{% if include.id_number %}{{ include.id_number }}{% endif %} =
-    $("#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}").lightGallery({
-      thumbnail: false,
-      selector: '.image'
-    });
-});
-
-// -- Isotope init --
-var $grid{% if include.id_number %}{{ include.id_number }}{% endif %} =
-$('#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}').isotope({
-  percentPosition: true,
-  itemSelector: '.image-wrapper',
-  masonry: {
-    columnWidth: '.image-wrapper'  // ← гол засвар
-  }
-});
-
-// -- Layout refresh on images load --
-$grid{% if include.id_number %}{{ include.id_number }}{% endif %}.imagesLoaded().progress(function () {
-  $grid{% if include.id_number %}{{ include.id_number }}{% endif %}.isotope('layout'); // ← зөв layout дуудалт
-});
-</script>
